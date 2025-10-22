@@ -1,7 +1,5 @@
 <h1 align="center" id="title">Nemici Miei</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Rock-A-Raso/Nemici-Miei/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
-
 <p id="description">PCTO 2025 - PYGAME PROJECT</p>
 
 <h2>🚀 Demo</h2>
