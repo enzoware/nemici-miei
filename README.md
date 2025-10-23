@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Nemici Miei</h1>
 
-<p id="description">PCTO 2025 - PYGAME PROJECT</p>
+<p id="description">PCTO 2024-2025 - PYGAME PROJECT</p>
 
 <h2>🚀 Demo</h2>
 
